@@ -6,7 +6,6 @@ This project analyzes a Netflix-style content dataset containing movies, TV show
 - SQL
 - Tableau
 - Google Sheets
-- Excel
 
 ## Dataset
 The dataset includes:

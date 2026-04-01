@@ -49,7 +49,7 @@ The project was designed to answer key business questions such as:
 - GitHub Repo: (https://github.com/alicepatel071103-byte/-Netflix-Content-Performance-Analysis.git)
 
 ## Dashboard
-(Dashboard/Dashboard_Preview_png)
+(Dashboard/Dashboard_Preview.png)
 
 
   

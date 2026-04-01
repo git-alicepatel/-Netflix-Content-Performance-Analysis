@@ -51,3 +51,7 @@ google-sheets/
 tableau/
 visuals/
 docs/
+
+## 🔗 Links
+- Tableau Dashboard: (https://public.tableau.com/views/NetflixDataAnalysis_17750239617340/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- GitHub Repo: (https://github.com/alicepatel071103-byte/-Netflix-Content-Performance-Analysis.git)

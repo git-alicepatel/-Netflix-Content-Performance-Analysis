@@ -53,7 +53,7 @@ visuals/
 docs/
 
 ## Dashboard
-![Dashboard](Dashboard/Dashboard Preview.png)
+![Dashboard](Dashboard/Dashboard_Preview.png)
 
 ## 🔗 Links
 - Tableau Dashboard: (https://public.tableau.com/views/NetflixDataAnalysis_17750239617340/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

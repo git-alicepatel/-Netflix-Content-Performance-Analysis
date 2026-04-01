@@ -52,7 +52,6 @@ tableau/
 visuals/
 docs/
 
-## Dashboard
 ![Dashboard](Dashboard/Dashboard_Preview.png)
 
 ## 🔗 Links

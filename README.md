@@ -43,6 +43,16 @@ The project was designed to answer key business questions such as:
 - Genre performance varies by country and content type
 - Content additions show growth trends over time
 
+
+## 🔗 Links
+- Tableau Dashboard: (https://public.tableau.com/views/NetflixDataAnalysis_17750239617340/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- GitHub Repo: (https://github.com/alicepatel071103-byte/-Netflix-Content-Performance-Analysis.git)
+
+## Dashboard
+(Dashboard/Dashboard_Preview_png)
+
+
+  
 ## Repository Structure
 ```text
 data/
@@ -51,9 +61,3 @@ google-sheets/
 tableau/
 visuals/
 docs/
-
-![Dashboard](Dashboard/Dashboard_Preview.png)
-
-## 🔗 Links
-- Tableau Dashboard: (https://public.tableau.com/views/NetflixDataAnalysis_17750239617340/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- GitHub Repo: (https://github.com/alicepatel071103-byte/-Netflix-Content-Performance-Analysis.git)

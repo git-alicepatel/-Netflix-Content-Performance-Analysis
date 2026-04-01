@@ -51,13 +51,9 @@ The project was designed to answer key business questions such as:
 ## Dashboard
 (Dashboard/Dashboard_Preview.png)
 
-
-  
 ## Repository Structure
 ```text
 data/
 sql/
-google-sheets/
-tableau/
-visuals/
+Dashboard/
 docs/
